@@ -6,3 +6,7 @@ Spencer Smith
 Itay Goldfaden
 Jake Braswell
 Jacob McKenzie
+
+Sources of our data
+  Yahoo Finance
+  Statista
