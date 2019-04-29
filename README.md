@@ -1,2 +1,3 @@
 # CSCE567-Project-2
-CSCE567 second project
+Does the proliferation of Mobile Devices effect the price of stocks?
+
